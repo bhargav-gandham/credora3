@@ -51,4 +51,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-*Prepared by: [Your Name]*
+*Prepared by: Bhargav Gandham

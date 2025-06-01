@@ -74,4 +74,4 @@ This project aims to build a decision tree classifier to predict whether a custo
 
 ---
 
-*Prepared by: [Your Name]*
+*Prepared by: Bhargav Gandham

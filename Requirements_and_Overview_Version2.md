@@ -27,6 +27,3 @@
 3. Model evaluation results and visualizations
 4. PDF exports of the above documentation
 
----
-
-*This document summarizes the project requirements and deliverables based on the provided guidelines.*
